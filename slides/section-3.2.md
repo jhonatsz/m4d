@@ -1,0 +1,4 @@
+### GOALS
+- ###### Hack
+- ###### Enumerate
+- ###### Apply

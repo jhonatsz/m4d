@@ -1,0 +1,4 @@
+- #### Nontechnical Attacks
+- #### Network-Infrastructure Attacks
+- #### Operating-systems Attacks
+- #### Application & other specialized Attacks

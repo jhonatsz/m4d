@@ -1,0 +1,5 @@
+- ###### Understand *"Hackers Objectives"*
+- ###### Distinguish *"Ethical vs Malicious"*
+- ###### Examine *"Ethical Hacking Process"*
+- ###### Understand *"How Secure is Secure"*
+- ###### Jumpstart *"Ethical Hacking Process"*
