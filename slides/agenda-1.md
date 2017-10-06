@@ -1,5 +1,5 @@
-- ###### Understand *"Hackers Objectives"*
-- ###### Distinguish *"Ethical vs Malicious"*
-- ###### Examine *"Ethical Hacking Process"*
-- ###### Understand *"How Secure is Secure"*
-- ###### Jumpstart *"Ethical Hacking Process"*
+## The Four W's
+- ###### Understand **" WHY "**
+- ###### Examine **" WHAT "**
+- ###### Distinguish **" WHEN "**
+- ###### Jumpstart **" WHERE "**
